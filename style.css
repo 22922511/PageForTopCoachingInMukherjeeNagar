@@ -1,0 +1,61 @@
+#tank{
+	background-color: whitesmoke;
+ height: 700px;
+ width: 400px;
+ align-content: center;
+/*box-shadow: 3px 3px red, -1em 0 .4em olive;*/
+box-shadow: 10px 5px 5px black;
+border-radius: 20px;
+padding: 1px;
+}
+li{
+	list-style-type: none;
+}
+ 
+.c1{
+	border :2px solid #201658;
+padding: 3px;
+	background-color: white;
+	width: 250px;
+	height: 38px;
+ font-size: 16px;
+border-top-right-radius: 10px;
+border-top-left-radius: 3px;
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+
+  font-family: "Exo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  margin: 6px;
+  box-shadow: 5px 4px black;
+color: black;
+}
+#title{
+	margin: 10px;
+	 
+   font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 25px;
+  background-color:#CCD3CA ;
+  border-radius: 10px;
+
+
+}
+p{
+	padding: 10px;
+	margin: 5px;
+}
+#content{
+
+	font-family: "Zilla Slab Highlight", serif;
+  font-weight: 700;
+  font-style: normal;
+	width: 90%;
+	font-size: 20px;
+	padding: 4px;
+	margin: 10px;
+}
